@@ -24,7 +24,7 @@ A web-based calculator that uses the Shunting Yard algorithm to parse and evalua
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone <https://github.com/JuliusBelmont123/Calculator>
+   git clone https://github.com/JuliusBelmont123/Calculator
    ```
 2. Open index.html on browser
    
